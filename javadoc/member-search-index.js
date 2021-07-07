@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"src.edu.handong.csee.java","c":"CreateObjectDemo","l":"CreateObjectDemo()","u":"%3Cinit%3E()"},{"p":"src.edu.handong.csee.java","c":"CreateObjectDemo","l":"main(String[])","u":"main(java.lang.String[])"}];updateSearchResults();

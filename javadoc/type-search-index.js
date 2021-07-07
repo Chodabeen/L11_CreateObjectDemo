@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"src.edu.handong.csee.java","l":"CreateObjectDemo"}];updateSearchResults();
